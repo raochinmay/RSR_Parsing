@@ -201,7 +201,7 @@ laz parking may 2013-august 2015
 park attendant in_charge of the collection of fee for parking at three beach side customer parking facility
 handle financial transaction
 wendy ’s july 2011-may 2012
-cashier responsibility_include greeting customer submit order and operate the cash_register demonstrate customer_service problem_solve and computer skill
+cashier responsibility_include greeting customer submit order and operate the cash register demonstrate customer_service problem_solve and computer skill
 assist in opening and close the store
 national leadership forum law csi july 2010
 experienced the full_range of profession that exist in legal and forensic science field explore in_depth in the_entire judicial process from crime through collect and analyze critical evidence
@@ -1358,7 +1358,7 @@ document and test fedex ship create business_requirement definition document pro
 owner of enterprise access controls and integration sharepoint
 service master memphis_tn security analyst access management apr 2014 jun 2014
 support user security access in remedy and jde solutions system within the enterprise
-service master memphis_tn inventory analyst inventory management dec 2013 feb_2014
+service master memphis_tn inventory analyst inventory management dec_2013 feb_2014
 analyze inventory system to locate lose handheld device and to eliminate excess inventory
 locate a half of a million_dollar in miss inventory and diagnose process discrepancy and software issue within inventory management tracking_system
 fedex collierville tn sr
@@ -1878,56 +1878,6 @@ production order
 rfm inc addison tx
 1993 1997
 senior program_manager handled multiple technology projects with associated pm management skill
-jared j ross
-9522 meadows farm dr.
-owings mills md 21117
-443)-388 2906
-jaredrossj@gmail.com
-skills ability
-● microsoft_office suite certified
-● proficient_in java html c++ visual_basic
-● proficient_in microsoft_office excel_powerpoint access
-education
-carver center for arts and technology hs
-i.t prime
-938 york rd
-towson md 21204
-graduated 2014
-2011
-2010 2014
-college of computer mathematical and natural
-sciences college_park md. major in computer_science
-b.a. anticipate in may_2018
-work_experience
-● amideast
-may 2015-august_2015
-○
-duty reformat and set_up computers
-troubleshoot_issue
-assist with networking of office
-● barcoding inc project assistant
-2013 2014
-○
-duty develop app
-manage amazon storefront
-prototype new technology
-create spreadsheet to assist in vertical market_research
-assist in create application base solution for customer
-●
-xp lasersports front desk
-○
-duty work the cash_register
-operate phone
-assist in the creation of program
-2013 2014
-extracurricular_activity
-● future business leader of america- member
-2012 2014
-● paintball club
-august 2013-december 2013
-● varsity tennis
-2010 2014
-references_available upon_request
 justin omps
 131 omps drive winchester va 22601
 cell 703.501.8513
@@ -2649,7 +2599,7 @@ continue
 jr business_analyst
 peoplestrategy indianapolis in
 application oracle sql_developer people_tools app_designer peoplesoft data_mover peoplesoft query manager hp_quality center access excel_powerpoint word visio project
-april 2010 march 2011
+april_2010 march 2011
 design and execute_test plan in hp ’s quality_center for the peoplesoft 9.1 hrms module
 responsible_for maintain and update multiple environment
 analyze and refine business_process to formulate qwi to match the software functionality
@@ -2658,7 +2608,7 @@ develop and administer user_acceptance training for updated process and software
 analyst
 nation freight industries nfi accuride corp whitestown in
 application sql_server microsoft dynamic ax access excel_word powerpoint_visio project
-april_2009 april 2010
+april_2009 april_2010
 responsible_for warehouse planning and set daily productivity goal
 develop write and train employee on standard_operating procedure
 analyze workflow procedure and make_recommendation for improvement
@@ -2859,7 +2809,7 @@ aug_2014 dec_2014
  compute the transient analysis on virtuouso after implement technique like stack and mtcmos to reduce
 leakage power in a cmos circuit
 clap counter use 8051 micro controller
-dec 2013_may 2014
+dec_2013 may_2014
  integrate a sound sensor with at89c51 and a lcd module which increase the count by 1 every time some sound
 be produce
  verify the code on keil µvision and the circuit on isis proteus 7 before implement the circuit on pcb board
@@ -9572,7 +9522,7 @@ wrote sql script to be run within the above environment when the client be ready
 received feedback and additional request from client and make -PRON- available to re focus_on any high_priority change
 relocate to philadelphia from wyomissing
 work_on small freelance project as_well as look for new work
-fitch rating rsc solutions contractor wyomissing pa aug_2013 oct 2013
+fitch rating rsc solutions contractor wyomissing pa aug_2013 oct_2013
 java_developer contract
 contract for a project invovl major enhancement maintenance and further of one of -PRON- large and most fundamental internal application which_be use to assist the company ’ many financial analyst to utilize -PRON- research financial datum and analytical tool to track update and organize the meeting in which the credit rating of a great portion of company corporation and financial institution be discuss and distribute
 spring_framework with a heavy use of as describe below extjs framework
@@ -11766,7 +11716,7 @@ aug_2014 dec_2014
  compute the transient analysis on virtuouso after implement technique like stack and mtcmos to reduce
 leakage power in a cmos circuit
 clap counter use 8051 micro controller
-dec 2013_may 2014
+dec_2013 may_2014
  integrate a sound sensor with at89c51 and a lcd module which increase the count by 1 every time some sound
 be produce
  verify the code on keil µvision and the circuit on isis proteus 7 before implement the circuit on pcb board
@@ -11821,7 +11771,7 @@ sale_representative abercrombie fitch and hollister co. pittsburgh
 october 2009 november_2013
 greeted and assist customer
 organized display
-ran cash_register
+ran cash register
 skill
 serve basic html_css and javascript word_excel power_point webex proval software
 accomplishment
@@ -14038,7 +13988,7 @@ lead tester for client server to web migration testing project for cbs employee 
 coordinate and test the cur application that automate cbs user re authorization process that be use to review and re authorize user 's application and database role accord_to boc it security program policy
 test new ccr interface develop by csc to be interfac_with core_financial system
 lead tester for new c.buy 5.9i version that have fpd ng 1.4 compatibility upgrade
-oct_2009 feb 2010 april 2010
+oct_2009 feb 2010 april_2010
 client microsoft corporation redmond wa
 lead ql qa performance lead
 responsibility
@@ -17790,7 +17740,7 @@ epic certified in resolute hospital billing administration claims electronic rem
 tata institute_of fundamental research
 narayangaon india
 research intern
-jul_2013 dec 2013
+jul_2013 dec_2013
  design implement and test a
 packetiz beamformer which_be use for pulsar research at gmrt world 's large
 array of radio telescope at meter wavelength for this_project in collaboration with university_of california berkeley ’s
@@ -20811,7 +20761,7 @@ experience summary
 possess 8_year of experience in software_development specialized in information security with expertise_in oracle_identity and access management
 extensive_experience in all_phase of software_development life_cycle sdlc which_include us interaction business analysis modeling design development implementation integration documentation testing deployment builds configuration and code management production customer support and maintenance
 work_experience
-im engineer at qssi columbia_md oct 2013 present
+im engineer at qssi columbia_md oct_2013 present
 responsibility
 design develop and deploy enterprise identity and access management solution use oim soa oam ohs ovd_oid
 involve_in oim_oam ohs ovd_oid installation_configuration
@@ -21398,7 +21348,7 @@ cleaned and straighten work area
 issue receipt for purchase and gift
 work with customer_service to resolve_issue
 provide professional and courteous service at all time
-operate cash_register with proficiency
+operate cash register with proficiency
 rabia ahmed ǀ 4708 kiernan road college_park md_20740 ǀ 240 638 8998 ǀ ahmed.rabia786@hotmail.com
 education bachelor_of science finance dec_2015
 university_of maryland at college_park college_park md
@@ -22040,13 +21990,13 @@ bpm_adf development lead create design for the web portal and mobile application
 the application manage all access right to multiple level of datum and report on usage level and enable historical reporting
 adf 11g/_soa 11_g
 general_electric
-nov dec 2013
+nov dec_2013
 adf_11 g architect developer the client be build a web centric financial system that need a journal_entry drill back application that_allow user to research and report on support financial datum
 -PRON- build an adf application that seamlessly provide the necessary drilldown capability and integrate the app into the company_’s ebs system
 bpm 11_g soa_11 g
 engine mfg
 cummins engines
-oct 2013
+oct_2013
 bpm_11g/ soa_11 g implementation specialist instal the_entire soa_bpm 11_g stack on the client ’s new hardware from_scratch training two of -PRON- it worker as the install progress and document the install for -PRON- future reference
 the client be use a solaris machine with oracle database
 java ejb mdb
@@ -23938,7 +23888,7 @@ develop stored_procedure and prepared statement for updating and access datum_fr
 implement rest base web_services for retrieve the authorization information for user account from the interfac user profile application
 implemented client_side validation use java scripts
 environment core_java j2ee angular_js j2ee sql servlets struts unix ejb jdbc_jms gwt html5 javascript db2 rcp jboss rest_web services eclipse tibco apache camel active_mq android sql web_sphere portal
-shore info tech private_limited hyderabad_india jan2013 dec 2013
+shore info tech private_limited hyderabad_india jan2013 dec_2013
 role java web developer
 responsibility
 coordinate_with team_member in gathering system requirement and specification require for the redesign
@@ -24348,7 +24298,7 @@ coordinating between other team in day to day activity
 send daily_weekly status_report to onsite_coordinator
 manage all deliverable like different project relate document different version of the code
 client aviva bangalore_india
-duration apr 2011 oct 2013
+duration apr 2011 oct_2013
 role oracle weblogic soa administrator
 environment oracle_soa 11_g bpel_mediator business_rules human_workflow osb 11_g weblogic 11_g java web_services soap and rest red_hat linux oracle db 11_g
 tools_eclipse svn ant ssh jdeveloper
@@ -24707,7 +24657,7 @@ experience in use java_j2ee technology such_as jsp_servlets ejbs jdbc jndi
 experience in application development debugging implementation and testing of oracle base erp use sql_plsql shell_scripting and database trigger etc
 extensive_experience in work with pl_sql package stored_procedures function and triggers
 work_experience
-thomson_reuters oct 2013
+thomson_reuters oct_2013
 present
 lead soa developer
 cpp bpm support and administration be to provide centre of excellence for nine different tenant use oracle_fusion stack like soa_bpel bpm_adf globally across thomson_reuters
@@ -25704,7 +25654,7 @@ dashboard to provide critical business acuman
  extract data from customer dealer management system test the validity of information and link datum point
  develop an extensive business_intelligence strategy_roadmap to forecast customer ’ purchase behavior
 kshatriya sports pvt_ltd india
-dec 2013 dec_2014
+dec_2013 dec_2014
 technical business_analyst
  analyze karnataka state tourism ministry ’s financial datum to produce insightful visualization on the global medium
 value attainable through a partnership with fc inter milan italy
@@ -31667,7 +31617,7 @@ development use informatica for datum integration and datum delivery work as inf
 experience include migrate from one rdbms to another
 hand_on experience migrate oracle databases to sql_server database and vice versa
 projects summary
-sr im engineer oid_ovd oud engineer qssi columbia_md oct 2013 to mar 2014
+sr im engineer oid_ovd oud engineer qssi columbia_md oct_2013 to mar 2014
 environment 11_g r1(ovd oid oud 11gr2 oim 11_g r2 oam 11_g r2 osb 11_g soa_suite 11_g jdeveloper 11g oracle_11 g bi_publisher weblogic_server 10.3.6 linux 11_g connector
 project ongoing development support activity for eidm tools by qssi
 responsible_for installation_configuration and support large oid_ovd oud environment
@@ -31687,7 +31637,7 @@ into sharepoint environment for oud to oid migration
 instal and configure bi_publisher tool in sandbox environment for sso implementation
 success fully implement single_sign on use oracle_idam 11_g oam/11 g ldap/11 g oim for oracle bi_publisher product in multiple environment sandbox development test impl environment
 successfully_complete 65% and working on new application integration t msis- transformed medicaid statistical information system in qssi eidm environment
-oracle_idam consultant(independent),oracle consulting america usa july_2013 to oct 2013
+oracle_idam consultant(independent),oracle consulting america usa july_2013 to oct_2013
 environment:11 g_r2 oracle database linux idam 11_g r2[oam oim_oaam oid oud odsm vmware obiee siebel oracle web_center web_gate 10_g /11 g windows 2008 sql_developer oracle_11 g form and report,11 g web tier
 project state of vermont health connect agency of human_services security implementation august_2013 to till_date
 responsible_for installation and configuration and implementation security use oracle_idam product in ha linux environment
@@ -35807,7 +35757,7 @@ account_payable receivable management
 project financial tracking and reporting
 work_experience
 paradyme_management inc. august 2008 present
-program administrator april 2010 present
+program administrator april_2010 present
 key_work experience
 oversaw and administer financial aspect_of $ 6.5 m in project initiative
 duty_include create submit and track status of invoice for 14 state government information_technology it project and three federal_government project
@@ -35822,7 +35772,7 @@ managed hr function such_as employee and contractor time tracking accrual expens
 gathered_requirement of change company hr need lead and oversee time tracking_system transition
 coordinated internal recruiting program
 duty_include conduct outreach initiative manage team deadline and maintain candidate database
-project administrator august 2008 april 2010
+project administrator august 2008 april_2010
 managed account_receivable and account_payable
 account_receivable duty_include invoicing service record pertinent datum submit invoice via email and online invoicing system follow_up with client and collect_payment
 account_payable duty_include track vendor_invoice and payment as_well as coordinate payment with client and contractor
@@ -35971,7 +35921,7 @@ draft user_interface standard for division wide use
 draft several internal proposal advocate adoption of new technology
 pioneer use of google docs as collaboration tool within division
 research a_variety of assign topic
-caci international february 2009 april 2010
+caci international february 2009 april_2010
 lead technical_writer
 key_work experience
 create modular online_help system for two related software application wordslayer a tool integrate audio playback and word processing for the transcription of audio datum by the intelligence community and scribezone a language training tool base_on transcription of audio datum
@@ -37625,7 +37575,7 @@ hollister co. frederick md model brand ambassador june 2014-august 2015
 display attention_to detail and organizational precision
 showcas apparel and represent the brand
 lead recruiting trip for new employee
-manage the cash_register and stocked product
+manage the cash register and stocked product
 extracurricular_activity
 club track and field assistant social chair
 team record holder(6’5 and state champion in the high jump
@@ -37688,56 +37638,6 @@ tableau
 began c and c+ cod training
 sports
 public speak write debate poker
-jared j ross
-9522 meadows farm dr.
-owings mills md 21117
-443)-388 2906
-jaredrossj@gmail.com
-skills ability
-● microsoft_office suite certified
-● proficient_in java html c++ visual_basic
-● proficient_in microsoft_office excel_powerpoint access
-education
-carver center for arts and technology hs
-i.t prime
-938 york rd
-towson md 21204
-graduated 2014
-2011
-2010 2014
-college of computer mathematical and natural
-sciences college_park md. major in computer_science
-b.a. anticipate in may_2018
-work_experience
-● amideast
-may 2015-august_2015
-○
-duty reformat and set_up computers
-troubleshoot_issue
-assist with networking of office
-● barcoding inc project assistant
-2013 2014
-○
-duty develop app
-manage amazon storefront
-prototype new technology
-create spreadsheet to assist in vertical market_research
-assist in create application base solution for customer
-●
-xp lasersports front desk
-○
-duty work the cash_register
-operate phone
-assist in the creation of program
-2013 2014
-extracurricular_activity
-● future business leader of america- member
-2012 2014
-● paintball club
-august 2013-december 2013
-● varsity tennis
-2010 2014
-references_available upon_request
 joseph l. marchese
 7203 rhode_island ave_college park_md 20740
 joey.l.marchese@gmail.com
@@ -38115,7 +38015,7 @@ manage the_entire product release process
 carry_out weekly merge for various code stream
 automate perforce task relate to release
 document cm and build process create user documentation and provide user training for perforce
-senior configuration manager april 2008- april 2010
+senior configuration manager april 2008- april_2010
 3_m his
 automate and maintain over_50 product build use nant perl batch script and cruise_control
 manage all_aspect of perforce administration include_but not_limited to create branch client spec user account set_up permission and merge baseline
@@ -41050,7 +40950,7 @@ assist in create application base solution for customer
 ●
 xp lasersports front desk
 ○
-duty work the cash_register
+duty work the cash register
 operate phone
 assist in the creation of program
 2013 2014
@@ -41503,7 +41403,7 @@ datum between a bank and -PRON- user by embed the datum inside a host file image
  improvise the exist cryptography technique by add time constraint over the encryption which result in
 have an add layer of security
 matlab test simulation for pulse width modulation pwm
-dec 2013
+dec_2013
  improvise the efficiency of pulse width modulation code by 15% to optimise the power require and performance
 throughput of application like dc motor and low power micro controller
 honor and accomplishment
@@ -41763,7 +41663,7 @@ aid at several school
 dec 2013- jan_2014
  event manager student co ordinator and department head for organize various cultural activity at undergraduate
 institute –vjti mumbai_india
-dec 2012- dec 2013
+dec 2012- dec_2013
 cameron somers
 781.915.8582 | csomers515@gmail.com 20
 leonard road sharon ma 02067

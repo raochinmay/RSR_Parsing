@@ -40,7 +40,7 @@ brainstormed idea for trial stage such_as how to track social habit movement of 
 front_end experience brief and debrief study participant
 work_with the psychology clinic at university_of_maryland use titanium and excel to manage
 patient dsm-5 datum
-assist_in run clinical trial involve the fmri at maryland neuroimaging center
+assist in run clinical trial involve the fmri at maryland neuroimaging center
 yaw owusu appiah
 experience_summary
 qualified and clearable oracle_database 12c/11g/10g/9i dba
@@ -109,13 +109,13 @@ part_time technical instructor
 key_work_experience
 train student in unix and linux_platform administration
 train student in instal and configure oracle asm and the oracle_rac stack
-assist_in write technical manual for on_site linux administrators
-assist_in develop training_material for intern
+assist in write technical manual for on_site linux administrators
+assist in develop training_material for intern
 design and maintain student mail ssh jumpbox and web_server
-assist_in build and maintain the chaveran cloud through various virtualization
+assist in build and maintain the chaveran cloud through various virtualization
 instal and configure red_hat file server and other linux appliance
 instal and configure linux firewall for client use iptable and bind
-developed hardware requirement_specification and assist_in other sizing activity
+developed hardware requirement_specification and assist in other sizing activity
 saba software inc. baltimore_md 2006 2008
 technical consultant oracle developer
 key_work_experience
@@ -124,7 +124,7 @@ technical highlight
 fdic thinq to saba datum migration technical lead with a high risk clearance
 led in the design and implementation of fdic ’s datum migration effort from thinq to saba
 supported yum brands in architectural design of -PRON- datum migration process
-assist_in datum migration for enbridge gas distribution base in canada
+assist in datum migration for enbridge gas distribution base in canada
 serve_as technical lead for a saba engagement at northrop_grumman corporation
 supported client in saba installation and in oracle datum migration
 support atk in -PRON- oracle performance_tune effort use explain plan awr and addm report
@@ -132,7 +132,7 @@ mentor_junior consultant through saba ’s employee mentorship program
 washington baltimore high index drug trafficking area greenbelt_md 2001 2006
 database_administrator developer
 key_work_experience
-assist_in the development of backend database store_procedure need by middle_tier
+assist in the development of backend database store_procedure need by middle_tier
 work_extensively with classic asp and access report tool_like pivot_table
 conduct demos and training_session need to use release product
 work_with content_management_system like drupal and mambo
@@ -144,7 +144,7 @@ conduct demos and train personnel in use this visual_basic application
 university_of_maryland_college park_maryland 2001
 linux network administrator
 key_work_experience
-support student network setup and assist_in network problem shoot
+support student network setup and assist in network problem shoot
 assist_with network deployment and troubleshooting
 configure student private router and other network device
 train student in use network resource on campus
@@ -201,8 +201,8 @@ laz parking may 2013-august 2015
 park attendant in_charge_of the collection of fee for parking at three beach side customer parking facility
 handle financial transaction
 wendy ’s july 2011-may 2012
-cashier responsibility_include greeting customer submit order and operate the cash_register demonstrate customer_service problem_solve and computer_skill
-assist_in opening and close the store
+cashier responsibility_include greeting customer submit order and operate the cash register demonstrate customer_service problem_solve and computer_skill
+assist in opening and close the store
 national leadership forum law csi july 2010
 experienced the full_range of profession that exist in legal and forensic science field explore in_depth in the_entire judicial process from crime through collect and analyze critical evidence
 examine a court case in the supreme court stimulation
@@ -663,7 +663,7 @@ serve_as an alm performance center admin and assist_with installation_configurat
 train colleague on use alm alm performance center use train the trainer technique train couple of people from each department with highlight on -PRON- important area module then the trainer would share the knowledge with -PRON- team_member
 serve_as point of contact for all alm relate question
 develop test_scenario test_script and outline test environment
-assist_in modify and manage performance and resolve technical issue
+assist in modify and manage performance and resolve technical issue
 manage virtual_user resource and gather metric
 use loadrunner trueclient protocol to develop script and test performance
 keep documentation regard delay
@@ -687,7 +687,7 @@ design and develop alm workflow_customization coding
 develop a test data extract use vb_script
 work_on alm template coding and implementation
 work_on alm daily administration ticket and request
-assist_in training new user to get up the speed with company alm process
+assist in training new user to get up the speed with company alm process
 integrate technique with ppm cod around the discrepancy to allow smooth integration
 support large number_of user
 alm administrator automation and performance_testing specialist jan_2014 aug_2014
@@ -698,8 +698,8 @@ administrate alm environment dev validation production
 responsible_for alm_11 hp_quality_center process development and implementation alm workshops and sdlc implementation
 assist_with genilogix eapprove template implementation and training
 function on alm workflow_customization coding and alm template coding and implementation
-assist_in training new user to get up the speed with company alm process
-assist_in qa and validation testing manual and automated use uft 11.5
+assist in training new user to get up the speed with company alm process
+assist in qa and validation testing manual and automated use uft 11.5
 developed and implement load_testing scenario and script to test the environment use_load_runner 12.0
 develop a test data extract use qtp 11.0
 alm administrator automation and performance_testing specialist june_2013 jan_2014
@@ -709,12 +709,12 @@ administrate alm environment dev validation production
 responsible_for alm_11 hp_quality_center process development and implementation alm workshops and sdlc implementation
 assist_with genilogix eapprove template development customization and implementation  worked on alm workflow_customization coding and alm template coding and implementation
 perform alm daily administration ticket and request
-assist_in training new user to get up the speed with company alm process
+assist in training new user to get up the speed with company alm process
 support in qa and validation testing manual and automated use uft 11.5
 hp_quality_center workflow specialist alm administrator jan 2013_may 2013
 comcast
 performed alm_11 hp_quality_center process development and implementation alm coding alm workshops and sdlc implementation
-assist_in qc 10 to alm_11 migration and implementation
+assist in qc 10 to alm_11 migration and implementation
 work_on alm workflow_customization coding and alm daily administration ticket and request
 support and customize multiple domain project
 associate director of tapy test automation performance engineering jan_2012 dec_2012
@@ -1685,7 +1685,7 @@ create sap_hana roadmap sap_hana s/4_hana
 assist hana security related project artifact and technical workshop and training
 create and implement detail project plan wbs tasks and activity
 identified and track the success of 50_+ sap_hana po solman redwood deliverable for this program
-assist_in create enterprise bi reporting strategy
+assist in create enterprise bi reporting strategy
 provide project relate sap experience_in the area of fico ogsd hr pi po
 other project at sst
 work_with a sap partner company in md create and submit fda ebp bi business_object report
@@ -1861,7 +1861,7 @@ objective and direct a group of project_manager consultants engineer and program
 develop and deploy
 the standard project implementation methodology to implement sap basis security mm fi_co sd bw
 identify
-business_requirement for sap implementation assist_in creation of sap optimization and business blue prints for
+business_requirement for sap implementation assist in creation of sap optimization and business blue prints for
 business_unit in usa and other manufacturing plant
 nokia dallas_tx
 1998 2000
@@ -1878,62 +1878,12 @@ production order
 rfm inc addison tx
 1993 1997
 senior_program_manager handled multiple technology projects with associated pm management skill
-jared j ross
-9522 meadows farm dr.
-owings mills md 21117
-443)-388 2906
-jaredrossj@gmail.com
-skills ability
-● microsoft_office_suite certified
-●_proficient_in java_html c++ visual_basic
-●_proficient_in microsoft_office excel_powerpoint access
-education
-carver center for arts and technology hs
-i.t prime
-938 york rd
-towson md 21204
-graduated 2014
-2011
-2010_2014
-college of computer mathematical and natural
-sciences college_park md. major in_computer_science
-b.a. anticipate in may_2018
-work_experience
-● amideast
-may 2015-august_2015
-○
-duty reformat and set_up computers
-troubleshoot_issue
-assist_with networking of office
-● barcoding inc project assistant
-2013_2014
-○
-duty develop app
-manage amazon storefront
-prototype new technology
-create spreadsheet to assist_in vertical market_research
-assist_in create application base solution for customer
-●
-xp lasersports front desk
-○
-duty work the cash_register
-operate phone
-assist_in the creation of program
-2013_2014
-extracurricular_activity
-● future business_leader of america- member
-2012_2014
-● paintball club
-august 2013-december 2013
-● varsity tennis
-2010_2014
-references_available_upon_request
 justin omps
 131 omps drive winchester va 22601
 cell 703.501.8513
 justin.omps@gmail.com
 experience
-september 2013 present freelance consultant -PRON- finest hour help leader increase -PRON- effectiveness by explore case_study in historical and modern leadership
+september_2013 present freelance consultant -PRON- finest hour help leader increase -PRON- effectiveness by explore case_study in historical and modern leadership
 -PRON- provide coaching and seminar to address the challenge that leader face at all level of an organization
 work_with researcher and raf veteran to develop a team base trust building exercise that replicate the high pressure environment of a ww2 command center
 present 5 seminar to senior_executive in industry mitre saic cooley pmi etc and federal_government fbi dhs etc
@@ -2024,13 +1974,13 @@ create and manage custom tfs build definition
 build and maintain all qa prod and dr server and database
 experience_in configure deploy microsoft base solution that leverage c and sql_server to qa production
 leverage teamcity octopus deploy in deployment_process for new agile_methodology
-initiate new user in rally and assist_in manage user team project and user_story
+initiate new user in rally and assist in manage user team project and user_story
 manage user and server certifications in iis
 build and deploy code of vary complexity for all environment
 work_with scrum teams to produce automate build and execute automated test
-assist_in develop good_practice policy and procedure for scm activity and release management follow -PRON- sdlc system_development_life cycle
+assist in develop good_practice policy and procedure for scm activity and release management follow -PRON- sdlc system_development_life cycle
 customize work item report etc as the need arise for different team
-assist_in the migration_from jira scrumworks custom work item system visual_source_safe and other system to team_foundation_server
+assist in the migration_from jira scrumworks custom work item system visual_source_safe and other system to team_foundation_server
 passport operation analyst
 run daily production cycle for back_end processing system
 perform daily_weekly and monthly ancillary support task
@@ -2066,7 +2016,7 @@ if configuration update be require for site confer with management to see if upd
 system integrator
 work_with internal party such_as programmer and project management to organize the various component need to initiate run and conclude major integration project
 create loe level of effort report for project management report time estimate on lab setup configuration unit_testing project implementation documentation and delivery process
-assist_in the creation of the brd business_requirement_document sow statement of work_with project management
+assist in the creation of the brd business_requirement_document sow statement of work_with project management
 analyze current configuration against project request to plan layout for type of scripting method and or executable update or modification to exist equipment and system that_will provide capability for propose project to work efficiently with current customer configuration
 unit_test update script modification and or executable update against current field configuration for issue
 if a problem be find create test_case surround issue
@@ -2138,7 +2088,7 @@ corporate quality_assurance ii las colinas tx
 situation corporate quality_assurance analyst perform check on multi_million_dollar healthcare_insurance contract
 task ensure deliverable be within business_requirement
 action as_a quality_assurance analyst on a corporate level conduct and document basic and moderately complex quality_assurance check of core product deliverable for client prior_to release include newly identify insurance policy cycle claim selection for coordination of benefit billing provider disallowance report and medical support enforcement file
-assist_in identify and correct error
+assist in identify and correct error
 result hms holdings be_able_to save recover and reimbursement monetary expense to insurance company provider and patient by send accurate datum provide by the client
 accomplishment
 train quality_assurance analyst on new upcoming imaging system to review healthcare claim
@@ -2180,7 +2130,7 @@ re engineer the quality_control department
 reticle management
 train osha wafer handling chemical safety and protect
 education
-master of business administration project management 2009- 2011
+master of business_administration project management 2009- 2011
 keller graduate_school of management addison il
 gpa 3.2/4.0
 bachelor_of_science in technical management health services management 2005 2009
@@ -2859,7 +2809,7 @@ aug_2014 dec_2014
  compute the transient analysis on virtuouso after implement technique_like stack and mtcmos to reduce
 leakage power in a cmos circuit
 clap counter use 8051 micro controller
-dec 2013_may 2014
+dec_2013 may_2014
  integrate a sound sensor with at89c51 and a lcd module which increase the count by 1 every time some sound
 be produce
  verify the code on keil µvision and the circuit on isis proteus 7 before implement the circuit on pcb board
@@ -3495,7 +3445,7 @@ consistently articulate and evangelize mission by travel extensively to deliver 
 presentation while serve_as high visibility spokesperson
 external relationships public_relations branding
 develop a public education campaign in partnership_with the chinese ministry of railroads mor
-developed partnership_with unife european executive from the manufacturing industry to assist_in
+developed partnership_with unife european executive from the manufacturing industry to assist in
 establish a sustainable membership base and financial foundation
 implement and lead the strategic branding and public relation campaign that focus_on c_level
 executive in the global manufacturing industry global head of transportation government_agency union
@@ -4760,7 +4710,7 @@ served_as operations officer and planner in j3 us southern command strategist an
 education and training
 master of_arts international affairs
 catholic university_of america washington_dc
-bachelor_of business administration
+bachelor_of business_administration
 finance
 hofstra university hempstead ny
 shipley capture manager training
@@ -6297,7 +6247,7 @@ software requirement specifications
 ∙provid qa feedback and use bugzilla for reporting and monitoring
 ∙work with off_site quality_assurance team to coordinate testing
 web designer ispektor.com los_angeles_ca
-2010_2014
+2010 2014
 ∙develop website create html and css code design graphic and display a comprehensive
 understanding_of directory structure and ftp protocol
 ∙managed multiple project simultaneously design develop and test website for functionality
@@ -6791,7 +6741,7 @@ education
 skills
 university_of washington seattle wa
 september 2014–expected june 2018
-double degree_in business administration and design
+double degree_in business_administration and design
 cumulative_gpa 3.2
 proficiency in adobe creative suite
 proficiency in microsoft_office
@@ -7248,7 +7198,7 @@ september_2015 december_2015
 work_with cam point person to_ensure customer_satisfaction of all employers’ recruiting activity
 kept record of employer recruiting activity and ensure accuracy on all communication information outlet
 engage_in process_improvement by analyze current operation and suggest change for enhancement
-assist_in marketing and outreach to student about recruit event
+assist in marketing and outreach to student about recruit event
 science applications international corporation saic
 mclean_va
 accounting finance intern program control
@@ -7290,7 +7240,7 @@ education
 virginia polytechnic institute and state_university blacksburg_va august 2015-present
 major business information_technology osm concentration
 j. sargeant reynolds community_college richmond_va august_2013 may_2015
-a.s. business administration cum_laude
+a.s. business_administration cum_laude
 final gpa_3.4
 george mason university fairfax_va august_2012 may_2013
 douglas freeman high_school richmond_va class of 2012
@@ -7747,7 +7697,7 @@ microsoft team_foundation_server 2013
 ● design and develop performance test_script use silkperformer 15.0
 ● design and develop automation test_script use microsoft test manager coded
 ui in visual c#.
-accenture federal september 2013 august_2013
+accenture federal september_2013 august_2013
 program dhs tsa tim technology infrastructure modernization
 system performance test lead
 ● design and develop performance test_plan case and script use hp_alm performance center loadrunner 11 for tsa tim application a highly integrate credential management system
@@ -8039,7 +7989,7 @@ perform upgrade installation and
 all maintenance work
 handling production outage and ensure resolution
 work_with other team on weblogic_admin work along_with jenkins and svn
-assist_in routine activity as_well_as in issue
+assist in routine activity as_well_as in issue
 personal detail
 interest organize event travelling read novel
 date of birth 19th may 1987
@@ -8274,7 +8224,7 @@ business_analyst with over 7_year of experience_in the healthcare finance and ba
 in_depth_knowledge of system_development_life cycles sdlc and iterative sdlc process thorough understanding_of rational_unified_process rup guideline and rational tool use throughout the project life_cycle
 developed various business vision document involve business glossary architecture and business modeling and business use_case
 rational_unified_process methodology be follow for most project to_ensure a streamlined and efficient process in develop business_requirement_document brd and functional_requirement_document frd and use_case
-extensive_experience gathering business_requirements business modeling develop project plan and scope document system architecture and assist_in feasibility studies
+extensive_experience gathering business_requirements business modeling develop project plan and scope document system architecture and assist in feasibility studies
 work_closely_with project_manager and experience_in project management include project planning scope layout project definition budget
 strong_understanding of the healthcare industry specialize_in medicare and medicaid benefit
 hand_on_experience work_with hipaa rule and regulation along_with good_understanding_of electronic data exchange edi like 837 claims encounters 834 benefit enrollment maintenance 835 claim payment advice 270/271 eligibility benefit inquiry response 277/275 claim request for additional_information 276/277(claim status request response hippa 4010 and icd-9 10
@@ -8292,7 +8242,7 @@ initiate and conduct various joint application development sessions jad to help 
 good work_experience of data mapping use ms_sql and ms_access
 highly proficient_in ms_office_suite of product with extensive_experience with ms_word ms_powerpoint ms frontpage ms_excel and project
 education
-mba in general business administration
+mba in general business_administration
 bba in finance
 technical tools
 database
@@ -8482,7 +8432,7 @@ maintain professional consistency across project guarantee a uniform deliverable
 log pertinent file in computer database system projectwise and hardcopy archive
 daily interaction_with virtually every team_member from program_manager to design engineer locate across the country
 facilitate effort of local and remote staff by research and provide require reference document or standard_operating_procedure
-education bachelor_of_science in business administration august_2011
+education bachelor_of_science in business_administration august_2011
 colorado technical university overall_gpa 3.9
 graduate with high honor
 pertinent coursework include
@@ -8496,7 +8446,7 @@ hr project management
 contract procurement
 project quality_assurance
 technical proficient_in citrix prolog encompass web client and autodesk buzzsaw project document software
-skill proficient_in_microsoft_office suite word_excel powerpoint_outlook
+skill proficient_in microsoft_office_suite word_excel powerpoint_outlook
 proficient_in adobe software create modify and bookmark pdf file
 proficient_in numerous xerox document_control center unit and the printing collating copying scanning fax and email capability therein
 honor and repeat member of colorado technical university ’s ctu ’s chancellor 's list miscellaneous certificate in management project planning and business concepts
@@ -9018,7 +8968,7 @@ delegate task to organize event for the university student to raise fund for the
 faculty assistant professor robert campagna syracuse_university_syracuse_new york
 may_2016
 present
-create form to resolve staffing issue and assist_in training scheduling grading and distribution of project among the student
+create form to resolve staffing issue and assist in training scheduling grading and distribution of project among the student
 sports secretary f.c.r.i.t. university_of_mumbai_mumbai india
 aug_2010 jul 2011
 organize inter collegiate annual sport for college across mumbai and ensure increase the participation of the event by_25%
@@ -9056,7 +9006,7 @@ strong problem_solve_skill leadership_skill team work and ability_to drive resul
 experience_in key account management consultative selling corporate strategy business analytic and solution development with lead global firm
 education
 robert_h._smith_school of business_university_of maryland_college_park_md
-master of business administration focus areas consulting and finance 2012
+master of business_administration focus areas consulting and finance 2012
 main course financial_statement analysis derivatives risk_management
 finance club consulting club and admissions volunteer
 indian institute_of_technology kharagpur india
@@ -9172,7 +9122,7 @@ performed clerical work_on the behalf of the attorney which_include filing docum
 leadership_experience
 appalachia service project asp senior group_leader september_2012 july_2015
 asp be an non_profit organization that seek to eradicate substandard housing in rural appalachia
-team_leader assist_in stabilize the foundation of a family home and underpin the base of a trailer home with vinyl siding to protect against the element and pest
+team_leader assist in stabilize the foundation of a family home and underpin the base of a trailer home with vinyl siding to protect against the element and pest
 work_with limited resource to construct solution for serious structural problem in the home
 -PRON- corps academy for innovation and entrepreneurship project group_leader july_2014 august_2014
 attend the i corps program for young innovator at the bullis school sponsor by dc i corps the bullis school and the academy for innovation and entrepreneurship at the umd college_park
@@ -9182,7 +9132,7 @@ wbal kids campaign charity concert section leader october_2013 december_2015
 percussionist in the wbal kids campaign holiday concert an annual holiday show to support and raise money for the kids campaign a fund devote to the betterment of young economically deprived boy and girl in the wbal radio listening area
 organize the percussionist to make_sure all part be cover by adapt instrumentation to work_with a limited number_of performer
 maryland econchallenge adam smith ap division team_member december 2013_may 2014
-assist_in lead -PRON- team to a 6th place finish in the maryland state wide economics challenge
+assist in lead -PRON- team to a 6th place finish in the maryland state wide economics challenge
 training skills and interests
 program word power_point excel audacity and logic audio editing microsoft and apple os
 interest economic jazz piano politics vinyl records old school hip hop
@@ -10484,7 +10434,7 @@ fulfil the transmittal and distribution of datum as direct
 research and analyze possible solution under standard procedure while develop advanced skill
 01/2010 02/2011 legal assistant contract project chernosky smith ressling smith pllc
 responsible_for obtain relevant information for the completion of broker document
-research title issue in_order to propose solution and assist_in clear title encumbrance and/or impediment
+research title issue in_order to propose solution and assist in clear title encumbrance and/or impediment
 draft tax suit and collection lawsuit
 assisted attorney with preparation for court hearing
 1/2007 02/2010 legal assistant law office of j. todd malaise
@@ -10496,7 +10446,7 @@ assisted attorney with preparation for hearing
 4/2006 01/2007 escrow assistant first american title company
 responsible_for obtain relevant information for the completion of broker document
 fulfil the title requirement for issuance of a final policy
-research title issue in_order to propose solution and assist_in clear title encumbrance and/or impediment
+research title issue in_order to propose solution and assist in clear title encumbrance and/or impediment
 ensure_that the document be in an accurate and recordable form
 ensure_compliance_with establish company policy and procedure
 skill experience
@@ -10592,7 +10542,7 @@ academic all fail this_project will_allow apus to deter fraud of federal funds a
 contribution most of the regression_testing for scalability and new_feature implementation
 transfer credit business_process management bpm complex integration of both in_house and 3rd_party system in support of optical scanning and processing of outside transcript test score and certification
 the successful flow of information support the application of transfer credit from outside education to the student ’s apus academic plan
-contribution web_service testing of complex and automated university process via xml workflow analysis that result in reduce processing time for evaluator from over 3 week to 2 day assist_in meet public sla ’s and reduce staff cost
+contribution web_service testing of complex and automated university process via xml workflow analysis that result in reduce processing time for evaluator from over 3 week to 2 day assist in meet public sla ’s and reduce staff cost
 course materials management allow internal faculty the ability_to manage course content with each release of the university catalogue of class
 student can order view course and track course material use pos delivery system
 contribution backend datum testing by age the datum for simulate different semester date scenario
@@ -10613,7 +10563,7 @@ planning development and execution of detail test_case use qc and base in suppor
 responsible_for drive e2e test effort include development of test datum for uat and sit
 backend_testing along_with write_complex_sql query to retrieve datum
 effectively write defect and communicate issue and impact to all stakeholder
-assist_in troubleshooting identify application and datum issue to_determine root_cause
+assist in troubleshooting identify application and datum issue to_determine root_cause
 validate the ssrs sql_server_reporting_services report
 work_with uat team to create scenario and prepare complex datum for -PRON- testing
 succeed in export test_case from qc to mtm microsoft test manager
@@ -10903,7 +10853,7 @@ master_of_science in_information_systems msis
 gmat 700
 december_2017
 university_of missouri kansas_city_mo
-master of business administration mba focus_area entrepreneurship
+master of business_administration mba focus_area entrepreneurship
 gpa 3.63
 ▪ received chancellor ’s non_resident awards for outstanding academic performance
 2015
@@ -11766,7 +11716,7 @@ aug_2014 dec_2014
  compute the transient analysis on virtuouso after implement technique_like stack and mtcmos to reduce
 leakage power in a cmos circuit
 clap counter use 8051 micro controller
-dec 2013_may 2014
+dec_2013 may_2014
  integrate a sound sensor with at89c51 and a lcd module which increase the count by 1 every time some sound
 be produce
  verify the code on keil µvision and the circuit on isis proteus 7 before implement the circuit on pcb board
@@ -11821,7 +11771,7 @@ sale_representative abercrombie fitch and hollister co. pittsburgh
 october 2009 november_2013
 greeted and assist customer
 organized display
-ran cash_register
+ran cash register
 skill
 serve basic html_css and javascript word_excel power_point webex proval software
 accomplishment
@@ -12998,7 +12948,7 @@ the project be design to provide the customer_service agent with an tool where_-
 the application would also_allow the user to track -PRON- progress on sale on day to day basis and make_sure_-PRON- reach -PRON- target by the end of the month
 be_also involve_in train various team and manage team across the floor
 education
-masters in business administration mba from university_of bridgeport ct usa
+masters in business_administration mba from university_of bridgeport ct usa
 masters in commerce from university_of_mumbai_mumbai india
 bachelor_of commerce from university_of_mumbai_mumbai india
 technical_skill
@@ -13756,7 +13706,7 @@ computer_engineering research inc.
 may 1999 feb 2000
 wellesley massachusetts
 
-assist_in the development of complex software for project -orient business in a microsoft
+assist in the development of complex software for project -orient business in a microsoft
 access environment
 
 daily_operation include perform test reporting and fix bug and document the online
@@ -14314,7 +14264,7 @@ interacted with internal and external customer with a high degree of professiona
 maintain the security and compliance of all document relate_to on_go project as_well_as archive document in_accordance_with relevant sops wis
 respond_to timely request and re filing for validation document ensure applicable paperwork be complete upon release and return to the document library
 education
-currently attend south university to achieve an associate ’s degree_in business administration
+currently attend south university to achieve an associate ’s degree_in business_administration
 computer experience
 microsoft_office include excel power_point access
 agile
@@ -14465,7 +14415,7 @@ development and execution of strategy communication marketing organizational
 development and change_management initiative
 417 app studios llc chevy_chase_md
 jun_2014 mar 2015
-assist_in the marketing outreach and fund raise for puzzable an ios_android mobile
+assist in the marketing outreach and fund raise for puzzable an ios_android mobile
 social gaming app that_allow user to take a picture add a caption message and send
 -PRON- to friend in the form of a fun digital jigsaw puzzle
 outreach effort enable puzzable to achieve 20,000 + active ios_android user and 10_+
@@ -14482,7 +14432,7 @@ integrity chamber of_commerce washington_dc
 interned to help with integrity chamber of_commerce 's b2b outreach
 research and identify like minded business dedicate to fair and honest business
 practice and market -PRON- membership service to -PRON-
-offer guidance to member on good_practice assist_in marketing and networking
+offer guidance to member on good_practice assist in marketing and networking
 te ko ltd izmir turkey
 summer 2012
 help with day to day administrative operation include email communication
@@ -14597,7 +14547,7 @@ work_as facilities office manager for an international it consult company mphasi
 corp in new_york_ny april_2012 to aug_2013
 role_responsibility
 ensure day to day facility_operation be at agree performance level
-stake_holder management communicate_with business_leader on the overall operation status
+stake_holder management communicate_with business leader on the overall operation status
 and service level
 work_with overseas support function team to manage day to_day_operation implement cost
 saving and service improvement strategy initiative
@@ -14832,7 +14782,7 @@ september_2015 december_2015
 work_with cam point person to_ensure customer_satisfaction of all employers’ recruiting activity
 kept record of employer recruiting activity and ensure accuracy on all communication information outlet
 engage_in process_improvement by analyze current operation and suggest change for enhancement
-assist_in marketing and outreach to student about recruit event
+assist in marketing and outreach to student about recruit event
 science applications international corporation saic
 mclean_va
 accounting finance intern program control
@@ -16222,7 +16172,7 @@ may_2006
 mr._sayyad_serve_as the senior system engineer on an information_technology need assessment for the
 country of jordan ’s future financial intelligence unit fiu
 mr._sayyad_’s responsibility be to meet with the central bank of jordan client and various stakeholder e.g. customs tax revenue securities depository and commercial banks in_order to derive system requirement and to assess current system infrastructure that_could_be leverage by the fiu
-the purpose of the fiu be to combat the global problem of money laundering and to assist_in counter terrorism effort use advanced analytical capability such_as business_intelligence and link analysis
+the purpose of the fiu be to combat the global problem of money laundering and to assist in counter terrorism effort use advanced analytical capability such_as business_intelligence and link analysis
 mr._sayyad author a 40 page technical report capture requirement and propose a system architecture that_would integrate datum_from the primary government organization as_well commercial entity
 the report detail the system architecture component include the datum security software and hardware
 -PRON-_also include a bill of material and propose project plan necessary for implementation
@@ -16353,7 +16303,7 @@ microsoft_data_transformation services
 united_states air_force senior_consultant and etl_developer april 2002 june 2003
 mr._sayyad_be the etl technical lead for the air_force military command afmc
 the project entail
-develop an etl_process that load data from several disparate source on a bi monthly_basis to consolidate human_resource history information and assist_in the calculation of retirement probability
+develop an etl_process that load data from several disparate source on a bi monthly_basis to consolidate human_resource history information and assist in the calculation of retirement probability
 the source include flat files oracle sybase and microsoft_access
 the software utilize to perform the datum integration be informatica powermart
 microsoft_data_transformation services dts be_also use for the loading of some less complex transformation
@@ -16467,7 +16417,7 @@ for several government_agency include the health_care financial administration h
 mr._sayyad be_able_to gain some experience with workflow and document imaging management software such_as documentrix by develop an enhancement to -PRON- use visual_basic and oracle
 mr._sayyad also develop conversion software develop in visual_basic to upgrade the dssi enterprise report tool flowmetrix to a new_release
 this software be utilize by several agency to upgrade -PRON- system
-finally mr._sayyad assist_in the preparation of several contract proposal
+finally mr._sayyad assist in the preparation of several contract proposal
 summary of_solution_technologies
 oracle_enterprise_db server
 visual_basic
@@ -16823,7 +16773,7 @@ provide technical and functional support to the government project_manager inclu
 require to support major engineering event critical to the project life_cycle
 senior business_systems_analyst nsips lockheed_martin
 space and naval warfare system center atlantic new_orleans_la
-2010_2014
+2010 2014
 concurrently drive multiple work_stream as the functional lead for the development of three major
 subsystem implement as business_process initiative for enhancement of the navy standard integrated
 personnel system nsips include a financial management system for obligation and expenditure
@@ -16908,7 +16858,7 @@ always complete project to a high_level of quality on time within_budget and to 
 successfully direct i.t. department with multi_million_dollar budget
 experienced_in architecture leadership and oversight
 adroit at develop a strong_understanding of client business model technical challenge competitive force and the impact of critical business driver
-a technology visionary and business_leader with extensive enterprise architecture experience_in relational and nosql database environment
+a technology visionary and business leader with extensive enterprise architecture experience_in relational and nosql database environment
 as_a senior enterprise data architect experience_in serve a critical role in the understanding documentation maintenance control and planning for enterprise datum
 a subject_matter_expert in many domain and an expert at perform task that contribute_to the organization 's mission and vision
 daily activity include revise enterprise conceptual logical and physical data_model define approach to master data management mdm architect etl solution for datum integration and migration create data_model that conform_to existing standard and convention provide leadership and guidance with enterprise datum strategy revise datum dictionary definition governance practice and standard detailed data profiling and partner with security architect to ensure_compliance_with data security and privacy mandate
@@ -17714,14 +17664,14 @@ price policy analyst sr 2008
 to 2009
 support lockheed_martin price in develop and communicate strategic financial and operative implication of propose pricing policy and develop solution to a_variety_of complex task proposal and problem
 recommend pricing position and reimbursement strategy for product across_all relevant customer and market segment ensure result be consistent with organization objective and in_accordance_with lm disclosure statement
-assist_in the implementation of propricer software and administered training program for all future stakeholder as_well_as remain a lead poc for all reach back necessary
+assist in the implementation of propricer software and administered training program for all future stakeholder as_well_as remain a lead poc for all reach back necessary
 developed company solution for tool limitation marry the complexity of price modeling with company disclosure statement rate structure and pricing regulation
 assembled and present rate build ups financial model and -PRON- assumption to upper_management on proposal range_from $ 1 m to $ 1b in value on t&m cp cr ffp contract type
 review competition and determine price to win ptw point for new product and provide_input on final contract pricing
 financial analyst sr 2007 to 2008
 manage full cycle financial operation for multiple lockheed_martin international contract with the dod. accountable_for financial estimating billing and budget control on variety_of t&m cp cr and ffp program monitor and perform in_depth analysis on cost variance trend manpower budget and funding
 create and provide lrp etc eac and consumer forecasting report and analysis for program_manager
-responsible_for month_end closing activity and assist_in assemble and present result to senior management
+responsible_for month_end closing activity and assist in assemble and present result to senior management
 lead analyst in alleviate a cure notice to effectively organize and clear 6 month of ar and a 200_+ dso on the highly visible gtmo program
 led functional analyst in planning implement swift program transition to sap and peoplesoft system
 ensure_all business policy and procedure meet all proper internal control include adherence to budget control and compliance_with gaap far and customer requirement
@@ -17739,9 +17689,9 @@ top_secret security_clearance 2015
 top_secret security_clearance 2008
 education
 iona college hagen school of business
-masters of business administration mba financial management gpa_3.5
+masters of business_administration mba financial management gpa_3.5
 iona college
-bachelor_of_science in business administration bs marketing gpa 3.3
+bachelor_of_science in business_administration bs marketing gpa 3.3
 awards affiliation
 multiple pae spot awards for outstanding performance
 lockheed_martin team excellence_award deliver effective result team_member
@@ -18515,7 +18465,7 @@ successfully launch a web_application that recommend suitable health_insurance p
 employed microsoft_sql_server host on aws to create dynamically accessible database
 experience
 equity data_analyst mumbai_india
-predict the stock pattern by analyze monthly trend assist_in trading of equity
+predict the stock pattern by analyze monthly trend assist in trading of equity
 communicate_with broker to resolve_issue process customer trading request and maintain transaction log
 teacher everest institute thane india
 teach computer_science chemistry and physics to high_school class consist_of 20 student per class
@@ -18831,7 +18781,7 @@ forecasting models familiar_with regression bass model exponential model trial a
 and market_share model
 national chengchi university nccu taipei taiwan
 2011 2015
-bachelor_of business administration marketing management gpa 3.8/4.0
+bachelor_of business_administration marketing management gpa 3.8/4.0
 projects
 
 
@@ -18861,7 +18811,7 @@ headquarter of marketing and promotion nccu taipei taiwan
 marketing specialist
 2011 2015
 
-create brand building activity for department of business administration ba to eradicate stereotype
+create brand building activity for department of business_administration ba to eradicate stereotype
 around the professionalism of the ba degree improved program enrollment rate from 80% to 100% in 2012
 
 conducted_market research on high_school student and parent to_understand -PRON- concern about major
@@ -19270,7 +19220,7 @@ project data_networks infrastructure consulting cameroon
 database management_systems health_care clinic use salesforce
 manage digital_business markets- impact of netflix on video rental industry
 marymount university arlington_va
-bachelor_of business administration major in finance
+bachelor_of business_administration major in finance
 2013
 professional_experience
 dental trade alliance washington_d.c.
@@ -19382,7 +19332,7 @@ assistant teacher english language
 2012_2014
 additional_information
  languag english fluent hindi fluent gujarati native and marathi basic
- technical_skills microsoft_excel java_html c++ css php sql vb xml c jquery javascript
+ technical_skills microsoft_excel java html c++ css php sql vb xml c jquery javascript
  currently training in python_r and big_data technologies
  familiar_with blender rational_rose matlab visual_studio visual_studio lightswitch tasm autocad
  train classical bharatnatyam and folk dancer
@@ -19569,8 +19519,8 @@ education
 robert_h._smith_school of business_university_of maryland_college_park_md
 master_of_science in marketing_analytics
 gpa 3.4/4.0
-school of business administration hunan university(hnu hunan china
-bachelor_of management major business administration
+school of business_administration hunan university(hnu hunan china
+bachelor_of management major business_administration
 gpa 3.4/4.0
  awarded merit base scholarship for two_year
 may_2016
@@ -19602,12 +19552,12 @@ intern sale and marketing assistant
  performed customer profiling segmentation through sap business analytic software
  determined consumer behavior pattern through regression analysis and factor analysis utilize spss and r.
 leadership_experience
-school of business administration hunan university hunan china
+school of business_administration hunan university hunan china
 freshman advisor
  elect from over 40 candidate as freshman advisor
  cooperate_with other advisor to lead team training and orientation for newcomer
  award excellent freshman advisor
-july september 2013
+july september_2013
 public relation department of hnu student_union
 september 2011 november_2013
 vice minister principal of chucai card program
@@ -20341,7 +20291,7 @@ will challenge -PRON- as_well_as allow for personal growth and experience_in a p
 work_experience communication intern
 national center for citizen safety ellicott city_md
 june 2016-august 2016
--PRON- be responsible_for organize idea and advise on future effort of the organization correspond with local politicians and business_leader as_well_as various sponsor
+-PRON- be responsible_for organize idea and advise on future effort of the organization correspond with local politicians and business leader as_well_as various sponsor
 assistant irrigation technician
 q services and consulting ellicott city_md
 may_2016 august_2016
@@ -20349,7 +20299,7 @@ responsible_for maintain function of irrigation system include learn about how t
 receive technician assistant
 trg tec hanover_md
 oct_2014 may_2016
--PRON- work_on an as_need basis and be responsible_for receive incoming package package product to be ship and assist_in the assembly of some fiber optic equipment as_well_as some datum_entry
+-PRON- work_on an as_need basis and be responsible_for receive incoming package package product to be ship and assist in the assembly of some fiber optic equipment as_well_as some datum_entry
 server
 champp 's sports bar and grill columbia_md
 jul_2014 sep 2014
@@ -21398,12 +21348,12 @@ cleaned and straighten work area
 issue receipt for purchase and gift
 work_with customer_service to resolve_issue
 provide professional and courteous service at all time
-operate cash_register with proficiency
+operate cash register with proficiency
 rabia ahmed ǀ 4708 kiernan road college_park_md_20740 ǀ 240 638 8998 ǀ ahmed.rabia786@hotmail.com
 education bachelor_of_science finance dec_2015
 university_of_maryland at college_park college_park_md
 robert_h._smith_school of business overall_gpa 3.465
-associates of_science business administration august_2013
+associates of_science business_administration august_2013
 prince_george ’s community_college largo md
 overall_gpa 3.6
 work paradyme_management_inc._greenbelt md
@@ -21420,7 +21370,7 @@ provide direction and instruction to billing staff for preparation and submissio
 unbilled and dso analysis with proactive action to monitor improve or maintain
 perform analysis and prepare report in_order to ensure_that contract be within negotiate and agree upon parameter and cost control guideline
 provide support to meet corporate requirement will include development of quarterly estimate at completion and monthly financial report
-participate_in the preparation of budget and schedule for contract work and perform and/or assist_in financial analysis such_as funding profile sale outlook and variance analysis
+participate_in the preparation of budget and schedule for contract work and perform and/or assist in financial analysis such_as funding profile sale outlook and variance analysis
 provide pricing and boe support for add on modification and change to current program
 assist and participate on proposal team for new bid to include coordination with price management subk management strategy and staffing
 ensure adequate funding availability by maintain accurate record of expenditure and prepare expenditure projection and work_with contract to submit timely request for additional funding to the government
@@ -21432,8 +21382,8 @@ assist_with administrative function of the corporate office
 software utilize insperity adp efaact(dcaa compliant system quickbooks accounting workflow system
 intern 12/12 09/13
 conduct datum research
-assist_in recruiting and project management
-assist_in office routine task
+assist in recruiting and project management
+assist in office routine task
 prince_george 's community_college hyattsville_md
 peer leader 11/12 12/13
 assisted instructor in teaching standard american english
@@ -21444,7 +21394,7 @@ administrative_assistant 07/11 11/13
 maintain good productive contact with client and staff
 inputt datum_into the quickbooks invoice customer receive payment and keep_track_of all the account
 kept the backup of data in database
-assist_in all office procedure planning and correspondence
+assist in all office procedure planning and correspondence
 software utilize quickbooks ms_access database
 activity umd primannum honors society vice_president of finance 05/2015 01/2016
 document expenditure
@@ -21913,7 +21863,7 @@ led numerous design and requirement session relate_to various peoplesoft module 
 lead the design configuration and implementation of query for peoplesoft crm 8.9
 smithsonian institution 6/2002- 8/2004
 it administrator
-primarily responsible_for the oversight of all it relate activity in office of sponsor projects provide it support on all level to a staff of 16 and to various additional contractor and lead team assist_in the rollout of new enhancement and various software system
+primarily responsible_for the oversight of all it relate activity in office of sponsor projects provide it support on all level to a staff of 16 and to various additional contractor and lead team assist in the rollout of new enhancement and various software system
 as_a peoplesoft 8.4 user be responsible_for procurement activity include subcontract issue to many government and non government vendor
 education
 bachelor_of_arts in information_technology from catholic university_of america
@@ -22257,7 +22207,7 @@ log and manage ticket thru remedy and ibm maxi mo ticketing_system
 escalate ticket for complex issue and follow_up with user upon resolution
 carry_out routine and semi routine analytical task and activity
 additionally create documentation participate_in contribute knowledge objects for help the team out for future related_issue analysis
-assist_in troubleshooting user problem_relate_to operate_system issue win9x nt and win 2003 and 2008 network connectivity tcp_ip configuration upgrade ms_office product and internet connectivity
+assist in troubleshooting user problem_relate_to operate_system issue win9x nt and win 2003 and 2008 network connectivity tcp_ip configuration upgrade ms_office product and internet connectivity
 manage windows_2003 and 2008 server host iis sql and custom internal application
 provide system level support of multi user operating_system hardware and software tool include installation_configuration maintenance and support of these system
 research plan install_configure troubleshoot maintain and upgrade operate_system
@@ -22350,7 +22300,7 @@ into -PRON- epdm system and sharepoint
 become familiar_with fda regulations
 become familiar_with specific aspect_of the contract and project team
 requirement
-assist_in organize a new product line dhf
+assist in organize a new product line dhf
 attended design review_meeting to ensure_that thing be review in an organized fashion
 shell oil ec harris
 document_control_specialist administrative 2011 2011
@@ -22494,7 +22444,7 @@ program_manager pm
 clearance
 top_secret clearance
 education
-master of business administration 1 year university_of_maryland smith_school_of business
+master of business_administration 1 year university_of_maryland smith_school_of business
 bachelor_of_science in accounting university_of_maryland_college park
 certificates/ certification
 not applicable
@@ -22782,7 +22732,7 @@ oversee the human_resource and facility function of the school and manage the hu
 work_with the central nhs administration to coordinate the operation and business activity of the school
 provide oversight of several financial and operational affair of the school such_as supervision of the mailroom student intern and assistant new_employee orientation space and resource_allocation equipment phone and key
 serve_as_a liaison for nhs to other area of the university and medical_center particularly as relate_to human_resources include personnel policy recruitment benefit and employee relation as_well_as medical_center finance on payroll matter
-assist_in the process of recruitment for faculty staff student hire and teach_assistant from initiation to completion
+assist in the process of recruitment for faculty staff student hire and teach_assistant from initiation to completion
 conduct new_employee orientation to ensure_smooth transition into the georgetown community
 function_as the direct manager of nhs’ human_resource coordinator and indirect manager of the nhs program coordinators to_ensure professionalism and consistency in departmental administration service integration communication and planning
 work_with main campus to implement and maintain nhs’ emergency preparedness plan
@@ -22843,7 +22793,7 @@ master_of_science in_information_systems msis
 gmat 700
 december_2017
 university_of missouri kansas_city_mo
-master of business administration mba focus_area entrepreneurship
+master of business_administration mba focus_area entrepreneurship
 gpa 3.63
 ▪ received chancellor ’s non_resident awards for outstanding academic performance
 2015
@@ -24142,7 +24092,7 @@ validate code fix to application deploy to the development qa and production_env
 provide_24/7 support on rotational basis
 education
 georgia state_university atlanta_ga
-bachelor_of business administration computer information_systems 2008
+bachelor_of business_administration computer information_systems 2008
 relevant class
 programming in c -PRON-_ii
 database management system
@@ -25223,7 +25173,7 @@ led the development cycle of cmris web_application
 comprehensive management resources information_system to keep_track_of all faa personal education and certification requirement
 design and develop project element include_but_not_limited to template user_interface
 database_schema design create stored_procedure and view
-assist_in troubleshooting and resolution of database issue
+assist in troubleshooting and resolution of database issue
 senior .net developer at inficare
 reston_va 06/2006 7/2007
 environment .net vb.net oracle
@@ -26851,7 +26801,7 @@ team building and leave a legacy
 orientation advisor office of orientation and new student programs
 november 2013-april 2015
 university_of_maryland_college park_md
- assist_in acclimate 4,000 incoming freshman and 2,000 transfer student to the university_of_maryland campus community
+ assist in acclimate 4,000 incoming freshman and 2,000 transfer student to the university_of_maryland campus community
  throughout summer and winter new student orientation programs advise and counsel group of up to 30 new student
  collaborate_with a team of fellow advisor to implement successful orientation program
  facilitate small_group discussion and address student and parent concern in a realistic yet professional manner
@@ -27595,7 +27545,7 @@ supported marketing effort by develop promotional material for event and sale
 self employed 2000 to 2006 freelance writer and editor conference planner and reporter
 demonstrate ability_to_work in a_wide_range of topic area with a_variety_of public and private_sector client in the utility energy international development and public relation domain
 client include
-international development firm act_as proposal writer editor and coordinator for proposal effort form response in adherence to rfp guideline as outline by usaid world bank and other aid organization write and edit management and technical solution as_well_as cv and past performances assist_in run color team meeting develop strategy and identify win theme edit a book of interview with lead urban planner work_with author to_ensure accurate translation
+international development firm act_as proposal writer editor and coordinator for proposal effort form response in adherence to rfp guideline as outline by usaid world bank and other aid organization write and edit management and technical solution as_well_as cv and past performances assist in run color team meeting develop strategy and identify win theme edit a book of interview with lead urban planner work_with author to_ensure accurate translation
 executive networking firm
 develop article for online publication serve networking high_level executive write_several chapter to a book on salary and compensation negotiation
 energy industry publisher write article for a newsletter that focus_on emission requirement and utility compliance
@@ -27653,7 +27603,7 @@ work_experience
 internal_audit intern it audit section
 dubai ports world dubai united arab emirates august_2016
 performed and document testing on 3 new system to be implement by the company
-assist_in the testing of it general controls for in_house system
+assist in the testing of it general controls for in_house system
 attended and document meeting_with the it_department relate_to the in_house system
 business intern
 dubai trade dubai united arab emirates july_2016
@@ -27702,7 +27652,7 @@ perform research and resolution require advanced diagnostic and troubleshooting 
 perform peer testing review and incident analysis for propose resolution of data or system issue
 assist_with implementation of new human_resource technology initiative
 assist_with maintain and monitor automated personnel record system and human_resource record involve hr_payroll and time and labor relate transaction
-assist_in research and interpret human_resource policy and procedure as -PRON- relate_to current system process
+assist in research and interpret human_resource policy and procedure as -PRON- relate_to current system process
 perform business analysis system functional and user_acceptance_testing
 perform_daily and weekly audit to review and resolve datum discrepancy as_need
 development of knowledgebase spreadsheet to document business_process and system function for testing purpose
@@ -27717,7 +27667,7 @@ serve_as_a junior level security administrator responsible_for daily security ma
 participate_in system planning and strategy activity to ensure_that business objective be be address and implement
 perform business analysis requirement_gathering and system functional parallel and user_acceptance_testing
 identified significant factor regard system issue in_order to gather pertinent datum for the recognition of solution
-assist_in writing editing and proofreading standard_operating_procedure job_aid reference guide and other user instructional training documentation
+assist in writing editing and proofreading standard_operating_procedure job_aid reference guide and other user instructional training documentation
 create and maintain security profile and user_account for system access
 assist the development technical infrastructure and/or functional support team with new project release as_well_as problem_resolution regard application and database issue
 generate and perform_daily profile and system audit to maintain datum and environmental integrity
@@ -28084,7 +28034,7 @@ provide friendly customer_service complete sale transaction as_well_as handle st
 united_states attorney office washington_dc
 superior court division homicide section intern june- august_2013
 assisted attorney in trial preparation and court proceeding
-assist_in the interviewing of police officer and witness
+assist in the interviewing of police officer and witness
 conduct_extensive research on exist legal opinion
 performed clerical duty such_as answer the phone file document and deliver motion statement for attorney and paralegal
 activite and voulunteer
@@ -28334,7 +28284,7 @@ communication intern
 september 2015-december 2015
 team up with the public affairs department ’s external relation effort in represent a large trade association
 write speech and script for different speaker and occasion include for the association ’s annual conference
-assist_in other initiative in a flexible matter that represent the industry and learn about mortgage trend
+assist in other initiative in a flexible matter that represent the industry and learn about mortgage trend
 swiss post solutions
 new_york_ny
 marketing intern
@@ -28754,7 +28704,7 @@ create load script use the virtual_user generator
 create scenario and virtual_user use_load_runner controller
 generate the script use vu generator
 script execution in load controller
-developed unix_shell_scripts to assist_in qa testing
+developed unix_shell_scripts to assist in qa testing
 executed sql command to perform the backend_testing on database
 perform database integrity_check use sql toad and unix_shell_scripts
 participate_in walkthrough and defect report meeting periodically
@@ -28883,10 +28833,10 @@ responsible_for start_up and daily_operation include hr and supervision for 50 s
 tax reporting and accounting sale budget
 education
 1990 wilmington university new castle de usa
-masters business administration finance management
+masters business_administration finance management
 1983 western maryland_college
 westminster maryland usa
-bachelor_of_arts economics business administration
+bachelor_of_arts economics business_administration
 receive numerous school/ fraternity office award and scholarship participate_in varsity sport and other non academic activity
 1979 tower hill high_school wilmington de
 usa
@@ -29461,7 +29411,7 @@ strategy_roadmap architecture across_all avaya product line include pbx crm mess
 vpn and cajun datum switch
  managed a 60 + staff via cross company matrix security team across_all product development
 area encompass hundred_of separate product and offer
- significant team building and consensus generation among senior business_leader
+ significant team building and consensus generation among senior business leader
 1998 2000 lucent technologies senior_consultant data security network professional services
 warren nj fortune_500
  coordinated management of all_aspect_of pre_sale and post sale delivery of data security consulting
@@ -29491,7 +29441,7 @@ education
 stevens institute_of_technology hoboken nj
 master_of_science computer_science gpa 3.75/4.0
 university at albany state_university of new_york albany ny
-bachelor_of_science cum_laude double major in_computer_science and business administration dean_’s
+bachelor_of_science cum_laude double major in_computer_science and business_administration dean_’s
 list
 publications technical papers books
 secure insight from people who keep information safe contribute author chapter title
@@ -29584,7 +29534,7 @@ financial_statement and conduct potential risk forecasting of sub prime loan hel
 pingdingshan tianan coal mining co. ltd. henan china
 june 2013-august 2013
 account intern
-record journal_entry for cash payment receivable and payable and assist_in monthly declaration of
+record journal_entry for cash payment receivable and payable and assist in monthly declaration of
 value add tax corporate sale tax and individual income tax
 collaborate_with a team of five to reconcile account for material cost allocation list on a_regular_basis
 monitored corporate expenditure report extraordinary item to_ensure consumption be within a $ 20,000
@@ -29698,7 +29648,7 @@ current
 performed software build and release management role on macpro jee project use subversion_svn repository
 assist_with operational aspect_of project manage software deployment and troubleshooting within target environment
 software_development analyst february 2013 march_2014
-design and develop a custom desktop software solution to provide analyst with a query research tool to assist_in problem_solve provider payment issue with cms ehr incentive program
+design and develop a custom desktop software solution to provide analyst with a query research tool to assist in problem_solve provider payment issue with cms ehr incentive program
 solo cup company formerly sweetheart cup co.
 lead programmer_analyst march_2007 april_2012
 develop and maintain custom solution and software module across_multiple platform
@@ -29755,7 +29705,7 @@ technical experience
 programmer_analyst trainee cognizant_technology_solutions
 chennai_india
 
-developed and test a web_application use java_html and tomcat server
+developed and test a web_application use java html and tomcat server
 
 create user login publish mysql_database and create a_user_friendly interface to query the datum
 
@@ -29870,7 +29820,7 @@ internal_audit intern it audit section
 dubai ports world dubai united arab emirates
 august_2016
 performed and document testing on 3 new system to be implement by the company
-assist_in the testing of it general controls for in_house system
+assist in the testing of it general controls for in_house system
 attended and document meeting_with the it_department relate_to the in_house system
 business intern
 dubai trade dubai united arab emirates
@@ -29927,7 +29877,7 @@ education
 robert_h._smith_school of business_university_of maryland_college_park_md
 master_of_science in_information_systems
 boston university questrom school of business boston_ma
-bachelor_of_science in business administration
+bachelor_of_science in business_administration
  dual concentration in finance and information_system
 december_2017
 2016
@@ -30131,7 +30081,7 @@ review and monitor log account sdlc documentation
 maintain a current inventory of all hardware and software asset on each system in the organization
 maintain and update system sdlc documentation
 conduct risk_assessment run vulnerability_scan on system use the nessus scan tool
-conduct and advise in meeting_with management concern the security_posture of the information_system provide_recommendation and guidance when assist_in audits or annual assessment and provide_input in mitigate weakness and vulnerability
+conduct and advise in meeting_with management concern the security_posture of the information_system provide_recommendation and guidance when assist in audits or annual assessment and provide_input in mitigate weakness and vulnerability
 maintain all system documentation and artifact on the sharepoint repository and csam
 amdex sure secure solutions alexandria_va 03/2012 01/2013
 department of_homeland_security customs and border protection
@@ -30475,7 +30425,7 @@ design create mapping_document base_on the business_requirement also refer sourc
 enhance the qtp script by do unit_testing on the script before create scenario base test in test lab module of quality_center
 develop and perform execution of test_scripts to show how many record be pass or fail
 load datum_into netezza table from various datum_source like netezza sql_server oracle flat_file by create informatica mappings
-assist_in create fact and dimension table implementation in star_schema model base_on requirement
+assist in create fact and dimension table implementation in star_schema model base_on requirement
 create etl test datum for all etl mapping rule to test the functionality datum
 write_complex_sql script use inner join cross join and outer join and sub query
 create test_script by use t_sql
@@ -30643,7 +30593,7 @@ sr
 qa lead
 oversight be an intranet web_base_application develop to meet the workflow audit and reporting need of the creditloss mitigation_strategy department
 responsibility
-assist_in create fact and dimension table implementation in star_schema model base_on requirement
+assist in create fact and dimension table implementation in star_schema model base_on requirement
 develop test_plan base_on test_strategy
 create and execute_test_case base_on test_strategy and test_plan base_on etl mapping_document
 preparation of technical_specification and source to target_mapping
@@ -30718,7 +30668,7 @@ etl analyst tester edwh
 liberty mutual be the 6th large p&c insurance company in the united_states offer a full line of insurance product include auto home and life as_well_as personal liability
 responsibility
 involve_in business analysis and requirement_gathering
-assist_in create fact and dimension table implementation in star_schema model base_on requirement
+assist in create fact and dimension table implementation in star_schema model base_on requirement
 write the sql_query on data staging table and datum_warehouse table to validate the datum result
 executed session and batch in informatica and track the log_file for fail session
 check the naming standard datum_integrity and referential integrity
@@ -30739,7 +30689,7 @@ involve_in validate the aggregate table base_on the rollup process document in t
 write_several complex_sql_query for validate and verify the datum in oracle_10_g
 prepared test_plan_test schedule with input from project_manager and development team
 responsible_for report and escalate datum issue arise from project or daily support
-assist_in create test datum and test_case and execute function system test as_need
+assist in create test datum and test_case and execute function system test as_need
 performed black_box_testing regression and end to_end_testing
 develop revise training documentation and procedure manual
 responsible_for run and analyse quality check report to_ensure system be function properly
@@ -30908,7 +30858,7 @@ dumpl dojo bethesda_md
 cashier server cook 06/2014 08/2014
 promote business throughout the mall through verbal mean and flier
 provide inventory_control to minimize excess spending and reconcile inventory while maintain optimal stock level to_ensure availability of product
-respond_to customer enquiry regard different product and assist_in buying decision
+respond_to customer enquiry regard different product and assist in buying decision
 marble slab rockville_md
 server cashier 00/2012 04/2013
 assist customer in purchase decision
@@ -30926,8 +30876,8 @@ maryland recreational volleyball college_park_md
 treasurer
 encourage participation through from all member and officer and club player
 pay off any fee that_arise and purchase any equipment necessary
-business_leader in society college_park_md
-emerging business_leader member 02/2015 present
+business leader in society college_park_md
+emerging business leader member 02/2015 present
 interact_with member to organize different fundraiser and participate_in different business builder meet
 men ’s club volleyball college_park_md
 player 09/2014 present
@@ -30967,9 +30917,9 @@ responsible_for provide direct on_site support to the initial 40 pass agency dur
 developed and execute pass user forums
 these user forum give hundred_of user each month an opportunity to discuss current pass functionality and recommend enhancement as_well_as learn about procurement good_practice
 education
-master of business administration robert_h._smith_school of business
+master of business_administration robert_h._smith_school of business
 university_of_maryland_college park
-bachelor_of_science in business administration information_systems
+bachelor_of_science in business_administration information_systems
 old dominion university
 pmp certification
 clearance
@@ -31038,7 +30988,7 @@ document library review ais for damage
 tolerance allowance dta require action
 review and track require engineering relate task for aircraft
 induction audit allegiant engineering document on pubweb and correct issue as_necessary
-assist_in engineering document scanning when_need
+assist in engineering document scanning when_need
 perform audit of engineering document scan into airvault under engineering library
 fluor on_site barrick goldstrike mine elko nevada 09/2012 04/2015
 document data management specialist ii maintain and track all documentation from contractor for client barrick gold at jobsite trailer
@@ -31244,7 +31194,7 @@ notice etc disseminate information to appropriate party in_a_timely manner monit
 order coordination for office and other supply include cleaning and office equipment as_need
 interact_with outside
 vendor as_need compile datum and information send to various agency
-assist_in management of department team
+assist in management of department team
 budget
 enter and track purchase_order request
 project tracking i.e. budget database and timeline
@@ -31580,7 +31530,7 @@ yeshiva university model united_nations
 stamford_ct
 team captain for high_school team
 october 2010- february_2012
- assist_in managing and prepare the team include recruiting select and training new team_member
+ assist in managing and prepare the team include recruiting select and training new team_member
 and run weekly_meeting
 skills activities interests
 language work_knowledge of spanish hebrew and yiddish
@@ -32379,7 +32329,7 @@ meet establish schedule and resolve technical or operational problem
 execute assign task to achieve maximum level of productivity
 make_recommendation for technical and process_improvement as -PRON- relate_to -PRON- database
 suggest new method product procedure and innovation that_will improve corporate profitability
-assist_in the presentation and demonstration regard database issue on behalf of the company
+assist in the presentation and demonstration regard database issue on behalf of the company
 ensure business and technical issue in area of responsibility be communicate appropriately to the appropriate person(s or level(s of the organization
 effectively follow the policy and procedure establish by the team and department
 interact and work_with other it_department and department external to it in_order to ensure_that database product be develop and put into production accord_to plan schedule and expectation
@@ -32623,7 +32573,7 @@ manage the scholarship banquet award member of the fraternity for academic_excel
 develop a plan for the new semester by critique the precede semester ’s academic activity
 attend cabinet meeting and give speech at chapter meeting for 150 member when the academic chair can not
 recruitment committee_member
-assist_in develop a positive brand and image for the pi delta chapter
+assist in develop a positive brand and image for the pi delta chapter
 network with potential new member
 ritual committee_member
 plan and organize ritual workshop
@@ -32702,7 +32652,7 @@ technical experience
 programmer_analyst trainee cognizant_technology_solutions
 chennai_india
 
-developed and test a web_application use java_html and tomcat server
+developed and test a web_application use java html and tomcat server
 
 create user login publish mysql_database and create a_user_friendly interface to query the datum
 
@@ -32778,7 +32728,7 @@ technical experience
 programmer_analyst trainee cognizant_technology_solutions
 chennai_india
 
-developed and test a web_application use java_html and tomcat server
+developed and test a web_application use java html and tomcat server
 
 create user login publish mysql_database and create a_user_friendly interface to query the datum
 
@@ -33280,7 +33230,7 @@ recommend and assist_with on_go staff training include individual and group trai
 performed computer helpdesk responsibility_include resolve hardware_software and network problem to meet the user ’s operational need
 instal modify and maintain stand_alone and networked computer system application and peripheral
 recommend and assist_with staff software training include individual training documentation and training_material preparation
-assist_in and execute problem_resolution for system hardware_software network attachment and other operational need
+assist in and execute problem_resolution for system hardware_software network attachment and other operational need
 performed system information back_up of mission_critical data
 education
 king university bristol tn
@@ -33607,7 +33557,7 @@ volt services sept 94 nov 95
 support specialist
 assist development team in writing of financial software
 provide technical_support to pc and mac system
-assist_in design of corporate intranet for various company
+assist in design of corporate intranet for various company
 viacom inc aug. 93 oct. 95
 desktop_support technician
 troubleshoot and repair pc hardware and printer
@@ -34384,7 +34334,7 @@ owings mills md 21117
 skills ability
 microsoft_office_suite certified 2011
 language_c c++_java android html_javascript ruby visual_basic python prolog ocaml
-proficient_in_microsoft_office excel_powerpoint access
+proficient_in microsoft_office excel_powerpoint access
 education college of computer mathematical and natural sciences college_park md. major in_computer_science minor statistics
 b.s. anticipate in may_2018
 relevant_course
@@ -34406,7 +34356,7 @@ barcoding inc 2013_2014
 ○ developed android application use bluetooth beacon
 manage amazon storefront work_with new technology such_as estimote beacons and capture tech asset tracking
 extracurricular_activity
-future business_leader of america- member 2012_2014
+future business leader of america- member 2012_2014
 pi kappa phi founding father 2015 -2017
 references_available_upon_request
 zijing judy zhang
@@ -34925,7 +34875,7 @@ before and after care assistant red hawk ridge elementary school
 
 
 oversaw material and equipment preparation for after school activity
-assist_in tutorial program for student
+assist in tutorial program for student
 planned monthly community outreach event for student and -PRON- family
 plan interactive engage activity include craft game and outdoor activity
 sale_associate ross stores
@@ -35817,7 +35767,7 @@ account_payable duty_include track vendor_invoice and payment as_well_as coordin
 lead administrative contact for external network of contactor business and government entity
 track project burn rate and analyze budget projection versus actual expenditure
 create and analyze financial report e.g. cash_flow report quarterly and yearly projection
-assist_in gather_information for and write resource project proposal
+assist in gather_information for and write resource project proposal
 managed hr function such_as employee and contractor time tracking accrual expense onboard and termination
 gathered_requirement of change company hr need lead and oversee time tracking_system transition
 coordinated internal recruiting program
@@ -35931,17 +35881,17 @@ ap scholar with distinction award fall_2015
 all county junior senior honors band clarinet august_2012 2014
 extracuriccular activities
 engineer without borders member september 2016-_present
-assist_in design and modeling of structural component for bridge construction in peru use autodesk_inventor
+assist in design and modeling of structural component for bridge construction in peru use autodesk_inventor
 research and calculate electrical component and requirement for construct a water pump for a school in ghana
 solar decathlon member september 2016_present
-assist_in construction of pv array inverter and monitoring equipment for experimentation
+assist in construction of pv array inverter and monitoring equipment for experimentation
 institute_of electrical and electronics engineers member september 2016_present
 cabin john middle_school tutor august 2013-may 2016
 individually tutor five middle_school student weekly in the subject of math and science
 founder and president of the make a wish foundation club august 2015-may 2016
 preside over weekly club meeting organize fundraiser and delegate duty to officer
 high_school affairs regional director for student member of the board advisory committee august_2015_may_2016
-preside over monthly meeting and assist_in implementation to facilitate access to wireless internet and healthy meal in school by counsel student executive
+preside over monthly meeting and assist in implementation to facilitate access to wireless internet and healthy meal in school by counsel student executive
 winston churchill high_school ambassador august 2014-_may 2016
 support the integration of freshman into high_school by serve_as_a mentor to two student throughout -PRON- first_year
 homeless opportunities commission tutor waverly house august_2013 march_2016
@@ -35955,7 +35905,7 @@ technical_writer_contract_agency erimax inc.
 key_work_experience
 currently member of a pilot agile_development team create sdlc documentation provide gui feedback and create online_help
 lead initiative to develop java coding standard for two internal group of developer
-lead initiative to develop java_html and xhtml code commenting standard for two internal group of developer
+lead initiative to develop java html and xhtml code commenting standard for two internal group of developer
 wrote edit and revise a_variety_of sdlc documentation for various application include high_level design requirement system engineering test_plan and solution architecture document
 work_on variety_of documentation for database application include design requirement and specification_document test_plan database refresh and promotion process and a semantic data dictionary
 wrote and edit interface control document for interface between application and database
@@ -35964,7 +35914,7 @@ provide_feedback_on user_interface for newly develop system
 developed and edit training presentation
 import database schemas into enterprise architect and create er diagram
 edit data dictionary
-assist_in develop and implement name convention for oracle_database constraint
+assist in develop and implement name convention for oracle_database constraint
 contribute_to and edit report evaluate result of service_orient_architecture soa pilot project
 create template for use_case and contribute content to use_case
 draft user_interface standard for division wide use
@@ -36231,7 +36181,7 @@ provide technical_support to internal and external user for client base vendor m
 train internal and external user on company specific software
 managed the administration department to standardize and centralize all accounting function for the southeast region for over 250 employee
 education certification
-bachelor_of business administration in project management
+bachelor_of business_administration in project management
 military experience
 united_states air_force inventory_management craftsman
 honorable discharge 1985 1995
@@ -36283,7 +36233,7 @@ phone 412 401 2811 e_mail brickbybrick05@gmail.com
 page_2
 education
 bowie_state_university bowie_md 2018
-bachelor_of_science in business administration with an information_systems concentration
+bachelor_of_science in business_administration with an information_systems concentration
 relevant_coursework
 information_technology database systems personal finance
 computer fundamental application business law principle of management
@@ -36473,7 +36423,7 @@ astrazeneca supply biologics 6/2013 09/2013
 lab analyst
 perform gmp environmental monitoring assay in iso 5 and iso 7 cleanroom area of the
 production module and gmp raw_material bioburden assay
-assist_in the production module
+assist in the production module
 environmental excursion investigation
 developed skill to operate in precise and procedural environment
 medimmune 6/2010 9/2010 6/2011 9/2011
@@ -36667,7 +36617,7 @@ validate code fix to application deploy to the development qa and production_env
 provide_24/7 support on rotational basis
 education
 georgia state_university atlanta_ga
-bachelor_of business administration computer information_systems 2008
+bachelor_of business_administration computer information_systems 2008
 relevant class
 programming in c -PRON-_ii
 database management system
@@ -37069,7 +37019,7 @@ technical experience
 programmer_analyst trainee cognizant_technology_solutions
 chennai_india
 
-developed and test a web_application use java_html and tomcat server
+developed and test a web_application use java html and tomcat server
 
 create user login publish mysql_database and create a_user_friendly interface to query the datum
 
@@ -37625,7 +37575,7 @@ hollister co. frederick md model brand ambassador june 2014-august 2015
 display attention_to_detail and organizational precision
 showcas apparel and represent the brand
 lead recruiting trip for new_employee
-manage the cash_register and stocked product
+manage the cash register and stocked product
 extracurricular_activity
 club track and field assistant social chair
 team record holder(6’5 and state champion in the high jump
@@ -37642,7 +37592,7 @@ cameron somers
 leonard road sharon ma 02067
 education
 university_of_maryland |_college_park
-september 2013 â december_2016
+september_2013 â december_2016
 major candidate for b.s in economics concentration in finance and data_analytics minor in entrepreneurship tech
 cumulative_gpa 3.75/4.0
 award deans list keller family terpstart endowed scholarship in economics
@@ -37688,56 +37638,6 @@ tableau
 began c and c+ cod training
 sports
 public speak write debate poker
-jared j ross
-9522 meadows farm dr.
-owings mills md 21117
-443)-388 2906
-jaredrossj@gmail.com
-skills ability
-● microsoft_office_suite certified
-●_proficient_in java_html c++ visual_basic
-●_proficient_in microsoft_office excel_powerpoint access
-education
-carver center for arts and technology hs
-i.t prime
-938 york rd
-towson md 21204
-graduated 2014
-2011
-2010_2014
-college of computer mathematical and natural
-sciences college_park md. major in_computer_science
-b.a. anticipate in may_2018
-work_experience
-● amideast
-may 2015-august_2015
-○
-duty reformat and set_up computers
-troubleshoot_issue
-assist_with networking of office
-● barcoding inc project assistant
-2013_2014
-○
-duty develop app
-manage amazon storefront
-prototype new technology
-create spreadsheet to assist_in vertical market_research
-assist_in create application base solution for customer
-●
-xp lasersports front desk
-○
-duty work the cash_register
-operate phone
-assist_in the creation of program
-2013_2014
-extracurricular_activity
-● future business_leader of america- member
-2012_2014
-● paintball club
-august 2013-december 2013
-● varsity tennis
-2010_2014
-references_available_upon_request
 joseph l. marchese
 7203 rhode_island ave_college_park_md 20740
 joey.l.marchese@gmail.com
@@ -38319,7 +38219,7 @@ responsibility over registration and communication_between professional sponsor 
 work in a team to research plan and organize a meet greet for 250 member in new_york
 currently work_with student board_member on the design phase of a web_base database and app
 smith_school women 's society college_park_maryland
-september 2013 present day
+september_2013 present day
 introduce female high_school student from different county in maryland to the robert e. smith_school for the 2013 future women in business conference
 activity include mentoring these student to create a business plan for a magazine and instruction on basic principle from each smith major
 create and implement community_service event in collaboration with non_profit as_a member of the community_service committee team
@@ -38735,7 +38635,7 @@ design cod and debugged asp.net web_page to handle reconciliation of medicare me
 use javascript_ajax jquery and visual_basic code to automate web_page and to enhance client_side performance and add visual special effect
 create both client_side and server_side script as_well_as user_interface for web_page
 create t_sql store_procedure to handle datum manipulation
-assist_in creation of application to import and download patient chart in pdf format for in_house coder to process
+assist in creation of application to import and download patient chart in pdf format for in_house coder to process
 tools use visual_studio 2003 .net visual_studio 2005 visual_studio 2008 crystal_reports sourcegear vault tfs and sql_server_2005
 place through code x inc. cxi
 05 2006 05 2008 capitalone programmer data_analyst
@@ -39391,7 +39291,7 @@ microsoft_certified course 803-administer microsoft_windows nt4 track on
 managing and maintain a windows_server 2003 environment training
 dns replication group_policy for corporate policy on domain infrastructure
 group_policy for wireless connections with set appropriate permission
-brevard community_college melbourne fl aa business administration
+brevard community_college melbourne fl aa business_administration
 experience
 health first brevard county fl_contractual_position
 field technician july 2017–present
@@ -39607,7 +39507,7 @@ skill
 
 
 
-proficient_in_microsoft_office word_powerpoint excel
+proficient_in microsoft_office word_powerpoint excel
 proficient_in conversational french
 strong_interpersonal skill build on respect for different perspective passion for the product -PRON-
 create and enthusiasm for share -PRON- with client
@@ -39651,7 +39551,7 @@ monitor application log to_determine system behavior
 address all technical issue facilitate the resolution and necessary follow_up with pm
 be it development and other cross_functional department
 performance_testing post test task gather various report and statistic from monitor group packaging and reporting result to project team
-assist_in explanation of result and other post test initiative
+assist in explanation of result and other post test initiative
 generate performance graph session report and other related documentation require for validation and analysis
 publish result and receive appropriate signoff
 prepare detail status_report and monitoring of all defect and issue
@@ -39781,7 +39681,7 @@ use sitescope to monitor server metric
 work_closely_with software_developer and take an active role in ensure_that the software component meet the high_quality standard
 provide support to the development team in identify real_world use_case and appropriate workflow
 perform in_depth analysis to isolate point of failure in the application
-assist_in production of testing and capacity certification report
+assist in production of testing and capacity certification report
 create comprehensive analysis and test_result report
 investigate and troubleshoot performance problem in a lab environment
 this will also include analysis of performance problem in a production_environment
@@ -40185,7 +40085,7 @@ responsible_for create new process and procedure
 attend senior staff meeting and other meeting as_require
 coordinate the day to_day_operation in the department
 responsible_for 10 direct report
-assist_in the training of new_employee in -PRON- department
+assist in the training of new_employee in -PRON- department
 sigma electric mfg corp garner nc september_2005 july 2008
 inventory_control supervisor
 responsible_for 14 million_dollar of inventory
@@ -40196,7 +40096,7 @@ help to implement the new wms system and train end_user
 attend senior staff meeting and other meeting as_require
 coordinate the day to_day_operation in the department
 responsible_for create new process and procedure
-assist_in the training of new_employee in -PRON- department
+assist in the training of new_employee in -PRON- department
 perform_datum_entry in jd_edwards and excel
 lawmen ’s safety supply raleigh_nc june 2004 may_2005
 warehouse engineer
@@ -40204,7 +40104,7 @@ responsible_for handle repair and return for customer
 interact_with customer and vendor to establish a good customer_service
 process and verify receive paperwork for accuracy
 perform inventory check and do necessary adjustment in the computer system
-assist_in training new_employee in warehouse area
+assist in training new_employee in warehouse area
 backup for individual sales department and firearms showroom
 responsible_for log firearm in the aft firearms log book upon receipt
 extensive_knowledge of atf laws and process
@@ -40841,7 +40741,7 @@ research assistant- keeping kids safe
 understand kids’ mental models of online safety on mobile devices
 university_of_maryland
 march 2016-_may_2016
-assist_in research on what first to fifth grader perceive as online safety how -PRON- currently navigate mobile privacy and security
+assist in research on what first to fifth grader perceive as online safety how -PRON- currently navigate mobile privacy and security
 risk and what strategy -PRON- employ to keep
 safe on -PRON- mobile_device
 this_include data collection and analysis along_with
@@ -41019,8 +40919,8 @@ owings mills md 21117
 jaredrossj@gmail.com
 skills ability
 ● microsoft_office_suite certified
-●_proficient_in java_html c++ visual_basic
-●_proficient_in microsoft_office excel_powerpoint access
+● proficient_in java html c++ visual_basic
+● proficient_in microsoft_office excel_powerpoint access
 education
 carver center for arts and technology hs
 i.t prime
@@ -41028,7 +40928,7 @@ i.t prime
 towson md 21204
 graduated 2014
 2011
-2010_2014
+2010 2014
 college of computer mathematical and natural
 sciences college_park md. major in_computer_science
 b.a. anticipate in may_2018
@@ -41045,22 +40945,22 @@ assist_with networking of office
 duty develop app
 manage amazon storefront
 prototype new technology
-create spreadsheet to assist_in vertical market_research
-assist_in create application base solution for customer
+create spreadsheet to assist in vertical market_research
+assist in create application base solution for customer
 ●
 xp lasersports front desk
 ○
-duty work the cash_register
+duty work the cash register
 operate phone
-assist_in the creation of program
+assist in the creation of program
 2013_2014
 extracurricular_activity
-● future business_leader of america- member
+● future business leader of america- member
 2012_2014
 ● paintball club
 august 2013-december 2013
 ● varsity tennis
-2010_2014
+2010 2014
 references_available_upon_request
 sunil kumar valluri
 professional_summary
@@ -41676,7 +41576,7 @@ tashkent international embassy school tashkent uzbekistan
 2007 2013
 extensive_experience with legal database management
 produce response to 45 50 subpoena and search warrant in compliance_with law_enforcement request to
-assist_in the investigation of internet child exploitation and immigration fraud case
+assist in the investigation of internet child exploitation and immigration fraud case
 performed legal research on key issue_relate_to the viability of claim in a complex construction matter 
 conduct fact development use public record and medium material to permit attorney to_determine case
 strategy 
@@ -41769,7 +41669,7 @@ cameron somers
 leonard road sharon ma 02067
 education
 university_of_maryland |_college_park
-september 2013 â december_2016
+september_2013 â december_2016
 major candidate for b.s in economics concentration in finance and data_analytics minor in entrepreneurship tech
 cumulative_gpa 3.75/4.0
 award deans list keller family terpstart endowed scholarship in economics
@@ -42319,7 +42219,7 @@ robert_h._smith_school of business_university_of maryland_college_park_md
 master_of_science in_information_systems gpa 3.3
 carl h. lindner college of business_university_of cincinnati cincinnati_oh
 international receiver of in state tuition scholarship gpa 3.84
-bachelor_of business administration accounting and corporate_finance
+bachelor_of business_administration accounting and corporate_finance
 2016
 beijing jiaotong university beijing_china
 2014
@@ -42369,7 +42269,7 @@ topic aws and zepplin to visualize result
 just in time promotions internet of things solutions use agile
 march may_2016
 n
-use_agile_scrum method to assist_in the development of the system gather user requirement and formulate user_story to
+use_agile_scrum method to assist in the development of the system gather user requirement and formulate user_story to
 produce a product_backlog
 helped team design relational_database use er diagram and sql
 n
